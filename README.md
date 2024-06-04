@@ -6,7 +6,7 @@ This project focuses on utilizing predictive modeling techniques to forecast sal
 
 ## Dataset Description
 
-The project employs the `sales_data.csv` dataset, containing historical sales data encompassing store ID, department ID, date, weekly sales, and other pertinent features. This data originates from the `walmart.csv` dataset, representing weekly sales data from diverse Walmart outlets nationwide.
+The project employs the `Wallmart Dataset.csv` dataset, containing historical sales data encompassing store ID, department ID, date, weekly sales, and other pertinent features. This dataset, representing weekly sales data from diverse Walmart outlets nationwide.
 
 ### Features
 
