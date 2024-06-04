@@ -73,8 +73,14 @@ forecasts that can aid in effective inventory management and overall business de
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your_username/walmart-sales-forecasting.git`
-2. Install the required dependencies: `pip install -r requirements.txt`
+1. Clone the repository:
+``` bash
+git clone https://github.com/adilbhartiya/Walmart-Sales-Forecasting.git
+```
+2. Install the required dependencies:
+``` bash
+pip install -r requirements.txt
+```
 
 ## Conclusion
 
